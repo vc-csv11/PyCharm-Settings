@@ -22,8 +22,12 @@
           <option name="url" value="https://github.com/vc-csv11/EX01-HelloWorld-vcdrk.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/vc-csv11/EX02-CelciusToFahrenheit-ProfKnight.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/vcdrk" />
+    <option name="cloneParentDir" value="$USER_HOME$/profknight" />
   </component>
 </application>
