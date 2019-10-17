@@ -34,6 +34,14 @@
           <option name="url" value="https://github.com/vc-csv11/EX03-CelsiusToFahrenheitTable-vcdrk.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/vc-csv11/EX04-PrimeNumbers-ProfKnight.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/vc-csv11/EX04-PrimeNumbers-vcdrk.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="$USER_HOME$/CSV11" />
