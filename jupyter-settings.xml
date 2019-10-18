@@ -1,4 +1,18 @@
 <application>
+  <component name="JupyterPersistentConnectionParameters">
+    <option name="moduleParameters">
+      <map>
+        <entry key="$USER_HOME$/CSV11/EX04-PrimeNumbers1/.idea/EX02-CelciusToFahrenheit.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="token" value="50981b5eff31e3630052fcde5dc798008c5f0628b1249b60" />
+              <option name="urlString" value="http://127.0.0.1:8888/" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="JupyterSettings">
     <option name="showSourcesInPreview" value="false" />
   </component>
