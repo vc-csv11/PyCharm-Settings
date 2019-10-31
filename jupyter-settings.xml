@@ -10,6 +10,14 @@
             </JupyterConnectionParameters>
           </value>
         </entry>
+        <entry key="$USER_HOME$/CSV11/MidTerm/.idea/MidTerm.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="token" value="f8b2dc1eddbbf57211937e9104969305031f46afe5d750e0" />
+              <option name="urlString" value="http://127.0.0.1:8888/" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/CSV11/untitled1/.idea/untitled1.iml">
           <value>
             <JupyterConnectionParameters>
