@@ -10,6 +10,14 @@
             </JupyterConnectionParameters>
           </value>
         </entry>
+        <entry key="$USER_HOME$/CSV11/EX05-Charts/.idea/EX05-Charts.iml">
+          <value>
+            <JupyterConnectionParameters>
+              <option name="token" value="9b9b0b7ac4d59af37cfaabadd7c41c4d97786a0c646aabb2" />
+              <option name="urlString" value="http://127.0.0.1:8888/" />
+            </JupyterConnectionParameters>
+          </value>
+        </entry>
         <entry key="$USER_HOME$/CSV11/MidTerm/.idea/MidTerm.iml">
           <value>
             <JupyterConnectionParameters>
